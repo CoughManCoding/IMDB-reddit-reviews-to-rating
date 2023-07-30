@@ -3,7 +3,6 @@ Data: Reddit API Pulls, IMDB non Commercial Data Set, Stanford Large movie Data 
 
 # Problem statement
 We want to Validate the IMDB scoring of a movie, given the comment/ review by a critic or a movie enthusiast. 
-Due to time limitations we can only validate the results manually and not automate the validation or predict it. 
 
 # Features
 - Pulling Reddit Data (Unstructured Data)
